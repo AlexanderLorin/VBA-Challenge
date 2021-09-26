@@ -13,15 +13,3 @@ Second Homework for Data Analytics Bootcamp
 
   * The total stock volume of the stock.
 
-
-Below are the screenshots of the analysis for each years
-
-## 2016 Stock Analysis
-![](/Users/alexanderlorin/code/VBA-Challenge/Screenshots/2016 Stock Analysis Screenshot.png)
-
-## 2015 Stock Analysis
-![](/Users/alexanderlorin/code/VBA-Challenge/Screenshots/2015 Stock Analysis Screenshot.png)
-
-##2014 Stock Analysis
-![](/Users/alexanderlorin/code/VBA-Challenge/Screenshots/2014 Stock Analysis Screenshot.png)
-
